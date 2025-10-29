@@ -1,6 +1,6 @@
 # tofi-wifi-menu
 
-a wi-Fi menu written in bash. Uses tofi and nmcli. forked from [ericmurphyxyz](https://github.com/ericmurphyxyz/rofi-wifi-menu) who forked from [zbaylin](https://github.com/zbaylin/rofi-wifi-menu) because it was unmaintained and incompatible with modern versions of rofi (which also meant that they simplified a bunch of other code for me). additional contributions from [vlfldr](https://github.com/vlfldr/rofi-wifi-menu)'s fork.
+a wi-fi menu written in bash. Uses tofi and nmcli. forked from [ericmurphyxyz](https://github.com/ericmurphyxyz/rofi-wifi-menu) who forked from [zbaylin](https://github.com/zbaylin/rofi-wifi-menu) because it was unmaintained and incompatible with modern versions of rofi (which also meant that they simplified a bunch of other code for me). additional contributions from [vlfldr](https://github.com/vlfldr/rofi-wifi-menu)'s fork.
 
 ![Screenshot of rofi-wifi-menu](./assets/screenshot_2025_10_29_19_26_56.png)
 
